@@ -51,8 +51,11 @@ Ngày nay Osi model không còn được sử dụng quá phổ biến vì quá 
 > Tầng này bao gồm các thiết bị vật lý có liên quan đến việc vận chuyển data như dây cáp `cables` và `hubs`. Ở tầng 1 data sẽ được dịch sang các dòng bit. Cả 2 thiết bị vật lý gửi và nhận của tầng 1 phải có chung các quy ước về tín hiệu để hiểu nhau.
 ### Tài liệu tham khảo: 
 [Link](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+
 [Link](https://www.cloudflare.com/learning/network-layer/what-is-the-network-layer/#:~:text=Network%20layer%3A%20Handles%20the%20routing,devices%20on%20the%20same%20network.)
+
 ![](https://i.imgur.com/5B3ZlLN.png)
+
 ![](https://i.imgur.com/Tc2iQnc.png)
 
 
